@@ -4,7 +4,9 @@
     "clients": [],
     "modelProvider": "openai",
     "settings": {
-      "secrets": {},
+      "secrets": {
+        "OPENAI_API_KEY": "OPENAI_API_KEY"
+      },
       "voice": {
         "model": "en_US-hfc_male-medium"
       }
