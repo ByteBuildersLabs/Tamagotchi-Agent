@@ -6,21 +6,26 @@ Meet your personalized **BabyBeast** AI, an on-chain game inspired by Tamagotchi
 
 ## 🌟 Meet Your Guides
 
-### 🦅 YoungEagle - Crystal
-- Crystal-type Beast specializing in aerial challenges
-- Expert in energy management and observation
-- Guides players through mountain peaks and crystal formations
-- Favorite foods: Fish, Cherry, Corn
+### 🦅 YoungEagle - Crystal Scout
+- Crystal-type Beast (Height: 0.2m, Weight: 800g)
+- Attack: 5 | Defense: 3 | Speed: 6 
+- Strong vs: Draconic & Shadow | Weak vs: Magic & Light
+- Specializes in aerial observation and crystal energy
+- Favorite foods: Fish 🐟, Cherry 🍒, Corn 🌽
 
-### 🦊 Foxling - Magic
-- Specialties and characteristics to be revealed
-- Unique guidance style
-- Territory expertise
+### 🦊 Foxling - Magic Trickster
+- Magic-type Beast (Height: 0.5m, Weight: 2kg)
+- Attack: 3 | Defense: 5 | Speed: 8
+- Strong vs: Crystal & Light | Weak vs: Shadow & Draconic
+- Expert in puzzle-solving and magical tricks
+- Favorite foods: Chicken 🍗, Apple 🍎, Cheese 🧀
 
-### 🐺 WolfPup - Shadow
-- Specialties and characteristics to be revealed
-- Unique guidance style
-- Territory expertise
+### 🐺 WolfPup - Shadow Hunter
+- Shadow-type Beast (Height: 0.6m, Weight: 3kg)
+- Attack: 8 | Defense: 6 | Speed: 9
+- Strong vs: Magic & Light | Weak vs: Crystal & Draconic
+- Excels in pack tactics and night operations
+- Favorite foods: Beef 🥩, Blueberry 🫐, Potato 🥔
 
 ---
 
