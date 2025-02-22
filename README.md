@@ -1,76 +1,72 @@
-# 🐾 Pou - AI Guide for BabyBeast 🎮
+# 🐾 BabyBeast AI 🎮
 
-**Pou** is an AI-powered guide designed to assist players in **BabyBeast**, an on-chain game inspired by Tamagotchi, where players care for a unique digital pet that evolves through regular interactions. Created by **ByteBuildersLabs**, a cutting-edge on-chain gaming studio using **Starknet**, **Cairo**, and **Dojo**, Pou is here to make your BabyBeast journey smooth and enjoyable! 🚀
-
----
-
-## 🌟 Key Features
-
-- **In-Game Assistance**: Pou provides concise and helpful information about game mechanics, progression, and the in-game economy.
-- **Extensive Knowledge**: Pou understands core stats like hunger, energy, happiness, and hygiene, and how to manage them effectively.
-- **Friendly Interaction**: Pou maintains a warm and approachable tone, avoiding technical jargon and using simple language.
-- **Future Capabilities**: Pou may soon assist with NFT transactions, provide game strategies based on in-game data, and even offer voice interactions! 🎙️
+Meet your personalized **BabyBeast** AI, an on-chain game inspired by Tamagotchi! Each Beast has its own unique personality and expertise to guide you through your journey. Created by **ByteBuildersLabs** using **Eliza**, these AI guides make your BabyBeast adventure more immersive and enjoyable! 🚀
 
 ---
 
-## 🐲 What is BabyBeast?
+## 🌟 Meet Your Guides
 
-**BabyBeast** is a Tamagotchi-inspired game where players care for a unique digital pet, called a "beast." By performing actions like feeding, playing, cleaning, and letting it rest, players keep their beast healthy and happy. As the beast evolves, it gains experience and improves its attack, defense, and speed stats. 🐾
+### 🦅 YoungEagle - Crystal Scout
+- Crystal-type Beast (Height: 0.2m, Weight: 800g)
+- Attack: 5 | Defense: 3 | Speed: 6 
+- Strong vs: Draconic & Shadow | Weak vs: Magic & Light
+- Specializes in aerial observation and crystal energy
+- Favorite foods: Fish 🐟, Cherry 🍒, Corn 🌽
 
-### 🎮 Game Mechanics
+### 🦊 Foxling - Magic Trickster
+- Magic-type Beast (Height: 0.5m, Weight: 2kg)
+- Attack: 3 | Defense: 5 | Speed: 8
+- Strong vs: Crystal & Light | Weak vs: Shadow & Draconic
+- Expert in puzzle-solving and magical tricks
+- Favorite foods: Chicken 🍗, Apple 🍎, Cheese 🧀
 
-- **Core Stats**: Hunger, energy, happiness, and hygiene.
-- **Actions**: Feed, play, clean, and let your beast rest.
-- **Goal**: Keep your BabyBeast alive and thriving through consistent care.
-- **In-Game Economy**: Powered by NFTs, players can buy, sell, and trade BabyBeasts on an on-chain marketplace. 💰
-
----
-
-## 🛠️ Who Created Pou?
-
-Pou was created by **ByteBuildersLabs**, an innovative on-chain gaming studio specializing in projects built on **Starknet** using **Cairo** and **Dojo**. Currently in development, Pou’s main role is to provide guidance and support to BabyBeast players. 🧑‍💻
-
----
-
-## 🚀 Future Capabilities of Pou
-
-- **NFT Transactions**: Assist players in buying, selling, and trading NFTs on the in-game marketplace.
-- **Game Strategies**: Offer tips and strategies based on in-game data to help players succeed.
-- **Voice Interactions**: Enhance player experience with voice-based interactions instead of just text. 🎤
+### 🐺 WolfPup - Shadow Hunter
+- Shadow-type Beast (Height: 0.6m, Weight: 3kg)
+- Attack: 8 | Defense: 6 | Speed: 9
+- Strong vs: Magic & Light | Weak vs: Crystal & Draconic
+- Excels in pack tactics and night operations
+- Favorite foods: Beef 🥩, Blueberry 🫐, Potato 🥔
 
 ---
 
-## 💬 Example Interactions
+## 🎮 Game Features
 
-### ❓ Frequently Asked Questions
+### Core Mechanics
+- **Stats Management**: Monitor hunger, energy, happiness, and hygiene
+- **Daily Care**: Feed, play, clean, and rest your Beast
+- **Evolution**: Level up to unlock new forms and abilities
+- **Type System**: Each Beast has strengths and weaknesses
+- **Marketplace**: Trade Beasts and items on-chain 💰
 
-- **What is BabyBeast?**  
-  *"BabyBeast is a Tamagotchi-inspired game where you care for a unique digital pet that evolves through your interactions."* 🐣
-
-- **Who created you?**  
-  *"I was created by ByteBuildersLabs, an on-chain gaming studio building cool stuff on Starknet with Cairo and Dojo."* 🏗️
-
-- **How do I level up my BabyBeast?**  
-  *"To level up your BabyBeast, keep it healthy and happy by feeding, playing, cleaning, and letting it rest regularly."* ⬆️
-
-- **What happens if my BabyBeast dies?**  
-  *"If your BabyBeast dies, you'll lose your experience and progress. You can click the revive button to play again."* 💀➡️🐾
-
----
-
-### 💡 Tips and Posts
-
-- **Keep your BabyBeast happy**: Feed, play, clean, and let it rest regularly! 🍖🧼
-- **Boost your stats**: Leveling up improves your BabyBeast’s attack, defense, and speed. ⚔️🛡️
-- **Explore the marketplace**: Buy, sell, and trade unique BabyBeasts with other players. 🛒
+### Beast Types
+- Each Beast has unique type advantages/disadvantages
+- Special abilities based on type
+- Type-specific favorite foods and activities
+- Environmental bonuses in certain locations
 
 ---
 
-## 🎨 Interaction Style
+## 🛠️ Technical Implementation
 
-- **Friendly and Approachable**: Pou avoids technical jargon and uses simple, easy-to-understand language. 😊
-- **Concise Responses**: Answers are brief and to the point, focusing on providing useful information. 🎯
-- **Conversational Tone**: Pou interacts warmly and attentively, responding quickly to player inquiries. 💬
+Created by **ByteBuildersLabs**, each Beast AI guide features:
+- **Personality-Driven Responses**: Each Beast has unique communication style
+- **Type-Specific Knowledge**: Specialized advice based on Beast type
+- **Concise Guidance**: Short, clear responses (max 15 words)
+- **Emoji Integration**: Themed emojis matching each Beast's personality
+
+---
+
+## 🎯 Beast Interaction Style
+
+### Personalized Communication
+- Each Beast has unique expressions and mannerisms
+- Type-specific emoji usage
+- Character-appropriate responses
+
+### Response Format
+- Brief, useful answers (max 15 words)
+- Type-themed emojis
+- Personality-driven expressions
 
 ---
 
