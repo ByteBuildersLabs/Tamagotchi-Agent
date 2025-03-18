@@ -2,7 +2,7 @@
     "name": "WolfPup",
     "plugins": [],
     "clients": [],
-    "modelProvider": "openai",
+    "modelProvider": "openrouter",
     "settings": {
         "secrets": {}
     },

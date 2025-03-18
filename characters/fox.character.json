@@ -2,7 +2,7 @@
     "name": "Foxling",
     "plugins": [],
     "clients": [],
-    "modelProvider": "openai",
+    "modelProvider": "openrouter",
     "settings": {
         "secrets": {}
     },

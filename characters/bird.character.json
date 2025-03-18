@@ -2,7 +2,7 @@
     "name": "Solarius",
     "plugins": [],
     "clients": [],
-    "modelProvider": "openai",
+    "modelProvider": "openrouter",
     "settings": {
         "secrets": {}
     },
